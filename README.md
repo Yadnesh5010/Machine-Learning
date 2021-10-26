@@ -1,2 +1,2 @@
 # Machine-Learning
-Projects
+Projects of Supervised and Unsupervised Algorithms
